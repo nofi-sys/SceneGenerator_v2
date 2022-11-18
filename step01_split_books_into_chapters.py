@@ -12,11 +12,6 @@ def savefile(filepath, content):
         outfile.write(content)
 
 
-#watchwords = ['EBOOK', 'PREFACE', 'CONTENTS', '\.\s+\.\s+\.\s+', 'TRANSCRIBER']
-#watchwords = ['EBOOK', 'PREFACE', 'CONTENTS'] #, '\.\s+\.\s+\.\s+']
-watchwords = []
-
-
 if __name__ == '__main__':
     files = os.listdir('books/')
     for file in files:
