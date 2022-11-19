@@ -1,0 +1,101 @@
+Write a brief description of all characters in this scene.
+
+
+SCENE:
+The timer button was set at one minute. He struck the rocket-firing
+button.
+
+He was hurled back in his seat with a sort of vicious and unreasonable
+violence. He was caught in a vise of twelve gravities pressure which
+held him motionless against the seat back and tried to flatten out
+his legs and body and prevent his breathing. But his flight suit was
+designed to prevent exactly this. It squeezed also. His legs were
+tightened unbearably. His arms were constricted past endurance. His
+chest, his stomach--he was confined in the most horrible of strait
+jackets. He felt his tongue curling back down his throat to strangle
+him. With an utterly herculean effort he managed to turn his head to
+one side. Then he could breathe, and the grav-pressure air protected
+his chest from collapse, and he endured and endured and endured.
+
+The minute of the rocket thrust lasted for centuries. Then the engine
+cut off, and his head was pure anguish from the blood spurted through
+it by his still-laboring heart. He was blinded by the pain. But it went
+away.
+
+Slowly, slowly, slowly, his sound-deadened ears regained their
+sensitiveness. He heard Furness gasping:
+
+"--minute rocket-blast ended. Checking course now. Over."
+
+McCauley said absorbedly:
+
+"There was a goof. A twelve-gee thrust with full fuel tanks is a whale
+of a lot more when they're nearly empty!"
+
+It was true, of course. The ferocity of a rocket thrust that would
+accelerate a fully loaded ship at three hundred fifty-odd feet per
+second per second would accelerate much more a ship weighing half as
+much. Toward the end, McCauley and Furness had taken acceleration that
+no man could live through for more than a very short time. But a man
+can endure briefly a stress that would kill him if long-continued.
+
+McCauley plunged into the desperately necessary task of this moment. He
+had to determine his present course and speed. He could not take the
+time to look out of the ports at the immensity of Earth below him. Men
+in capsules, orbiting, had been as high as this, but they did not have
+to compute their height or guide their vehicles. McCauley had to do
+both.
+
+The height was relatively simple. A radar screen, reduced to a vertical
+slot for economy of space and weight, told him the distance to whatever
+was below. A Doppler-effect velocity indicator would read off the
+change in frequency of a crystal-controlled radio signal which his
+speed produced. This substantially resembled the way an automobile
+horn changes pitch when two cars pass each other; the pitch drops
+swiftly at the moment of passing. But there was an observation which
+was simpler and more direct.
+
+He spotted a bright star near the horizon ahead. He read off its
+angular distance from the world's edge. Looking aft, under the belly of
+the ship, he read another angle from the world's edge to another star.
+Minutes later, he repeated the observations. The star ahead was higher,
+the one behind was lower. If one star rose faster than the other sank,
+he would be gaining height. If one sank faster than the other rose, he
+would be falling. If one rose exactly as fast as the other dropped, he
+would be in a perfect circular orbit, neither rising nor falling. That
+was too good to be expected. But from even two sets of observations he
+could tell the line the ship was following, and hence its speed.
+
+The ship did not have quite the speed necessary for a complete orbit.
+It needed more. He could guess how much.
+
+He said curtly to Furness:
+
+"We've got to have a two-second push, anyhow. Maybe more later. Get
+set."
+
+Furness did not reply, but McCauley heard him reporting.
+
+There was singularly little exultation in the small cabin. Furness'
+face was drawn and colorless behind his helmet plate. McCauley was busy.
+
+Presently, after a warning gesture, he set the rocket timer and
+pressed the firing button. All the ghastly impact of high acceleration
+repeated itself. But, lasting only two seconds, it was not much worse
+than--say--falling from a second-story window down on a hard mattress.
+It lasted longer, but there was not much other difference. It did not
+build up to the torture of continued rocket thrust.
+
+Then the ship floated on. There was utter silence. The vertical-slot
+altimeter indicated a height which seemed absolutely steady. The
+Doppler-effect velocity meter gave a reasonably satisfactory if not too
+precise message. McCauley was working intensively on his course when
+Furness said, with an effort:
+
+
+BRIEF CHARACTER DESCRIPTIONS:
+
+==========
+
+-the protagonist, who is piloting the ship and trying to compute their course and speed
+-Furness, the copilot, who is helping with the computations and monitoring the ship's progress

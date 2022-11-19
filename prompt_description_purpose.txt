@@ -1,0 +1,8 @@
+What is the narrative purpose of the following scene? What goals does the author achieve?
+
+
+SCENE:
+<<INPUT>>
+
+
+PURPOSE OF THIS SCENE:

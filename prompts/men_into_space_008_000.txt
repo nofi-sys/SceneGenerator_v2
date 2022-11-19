@@ -1,0 +1,13 @@
+-McCauley: the protagonist, an experienced astronaut and the captain of the Venus ship
+-Randy: McCauley's assistant, also an experienced astronaut
+-Doctor Bramwell: a scientist, making his first space voyage, who is to study Venus
+-Mr. Perkins: a canary, brought along on the voyage to serve as an early warning system for toxic gases
+
+-At 1400 hours on Tuesday, a metal object is launched from Cape Canaveral
+-The object is the Venus ship, which is headed for the Space Platform
+-The ship is refueled and given a second-stage unit at the Space Platform
+-The ship then heads for Venus, with a stop for a boost in velocity
+-Upon arrival at Venus, the ship is transformed into a livable space vessel
+-The final touch is a tiny canary, which is released from its acceleration chair
+
+The style of this scene is very technical and matter-of-fact. There is no emotion or description of the characters' inner thoughts or feelings. The focus is on the details of the space travel and the ship itself.

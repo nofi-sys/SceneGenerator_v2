@@ -1,0 +1,13 @@
+-Sassoon: the inventor of the Solver, a large machine that gives answers to questions. He is a tall man with a large build.
+-The attendants: ready to feed data to the Solver. Each desk has a microphone.
+-Joe Squeeb: the janitor of Solver Hall. He is a small man, with scraggly teeth.
+-The scientists: a group of stony-faced men and women, sitting in the audience.
+-Bertrand: a mathematician, sitting in the audience. He takes notes as the Solver gives its answer.
+
+-Sassoon demonstrates the Solver, a machine that can answer any question, in front of a large audience.
+-The janitor, Joe Squeeb, is chosen to ask the first question.
+-Squeeb asks the Solver what the area of a circle with a radius of one inch is.
+-The Solver correctly answers 3.1415926.
+-The audience is unimpressed and Sassoon is frowning.
+
+The style of this scene is fairly straightforward, with a third-person omniscient narrator providing objective description of the events. However, there is a bit of humor in the janitor's predicament, as well as in Sassoon's condescending attitude towards him.

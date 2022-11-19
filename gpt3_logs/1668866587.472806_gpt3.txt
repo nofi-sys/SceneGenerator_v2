@@ -1,0 +1,105 @@
+Write a brief description of all characters in this scene.
+
+
+SCENE:
+They were two weeks on the way toward Venus. The flare-particle counter
+clicked every second and a half. The sun's disk, ahead, was appreciably
+larger and Venus was a thinner crescent than before. Earth was a small
+object, though still larger than Venus, and the moon was very small
+indeed. At this distance the Space Platform was, of course, invisible.
+But the changes inside the ship were more marked than those outside.
+
+The interior of the ship was now divided into two parts. McCauley and
+Randy had pulled down the small cubicle made of soundproofing material
+that had been built for Bramwell to work in. They had used the same
+material to wall off a full half of the ship. There was a door in the
+wall, and part of the air-freshening system operated through sound
+baffles so that the air in the walled-off space was changed, quite
+silently, with the same regularity as the air in the forward end of the
+ship, where McCauley and Randy did their work.
+
+But McCauley was vaguely disturbed. It had developed gradually, but
+he did not feel right. Even though he could not become physically
+exhausted in a total absence of gravity, he felt dull and weary. There
+were measurements of flare-particle frequency to be recorded, both from
+outside the ship where the Bramwell-Faraday screen did not operate, and
+from inside where it did. The figures were curiously difficult to copy.
+But there was no reason for him to feel weak and stupid. The air system
+worked perfectly. The food was adequate. The ship moved steadily,
+silently, perfectly on its way at a certain number of miles per second,
+which was increasing a trifle because of the sun's gravitational field.
+Everything seemed perfect. But he didn't feel right. Randy was not
+himself, either. And Mr. Perkins sang only half-heartedly.
+
+The canary began, now, what started out to be a beautifully executed
+trill, but which died away after half a dozen tremolos.
+
+"Mr. Perkins isn't in good voice today. What's troubling him?" Randy
+spoke with a certain effort.
+
+McCauley concentrated on the report he was filling out. He shook his
+head and looked again; he was startled.
+
+"Look here!" he said sharply. "We had the screen on when we left the
+Platform. It kept out the radiation when we went through the Van Allen
+belt. But now we're nearer the sun. Stuff's coming through the screen!
+It's been coming through for days! And we haven't noticed it! What's
+the matter with us?"
+
+"I wouldn't know," said Randy listlessly.
+
+"We're not on the ball," said McCauley. "We've got to do something
+about this!"
+
+He rose from his chair. It took but the slightest of effort, and he
+floated free. He reached out his hand to the wall and directed the
+motion of his whole body. He approached the soundproof barrier that now
+divided the ship into two separate parts. He caught a handhold on the
+door and knocked.
+
+Minutes later the door opened. There was no gravity, so Bramwell did
+not stand in the opening. He floated there, scowling. He and McCauley
+faced each other, very much like swimmers, except that they swam in air.
+
+"Radiation's coming through the screen," said McCauley. "It shouldn't.
+Not this early, anyhow. Shouldn't something be done? I'm ordered to
+consult you about all adjustments of the screen."
+
+He was vaguely dissatisfied with himself for asking. He should not have
+to ask anyone for instructions. He was ordered to in this case, but
+decisions were his job.
+
+"Turn it up!" said Bramwell peevishly. Then he seemed to notice that
+he had not been actively unpleasant. He moved quickly to correct the
+omission. "How many times," he demanded furiously, "have I told you not
+to disturb me! Noise upsets me! Leave me alone! Isn't it enough that I
+have to share the ship with clods, without having you bang on my door?"
+He glared around the forward part of the ship. Mr. Perkins sang again,
+a half-hearted attempt at a warble. "Noise! Noise! Noise!" rasped
+Bramwell.
+
+He pulled the door shut. McCauley floated lethargically to the screen
+unit and made an adjustment.
+
+Nothing important apparently happened, but something ceased to happen
+so often. The sharp, slightly irregular clicking of the particle
+counter seemed to stop. It was a full five seconds before it clicked
+again, six before it clicked a second time, and five before it clicked
+a third.
+
+"I wish," said McCauley lethargically, "that I'd been a little more on
+the job. Why didn't we notice the radiation count going up, Randy?"
+
+"Bramwell complains if we touch the side of the ship because it makes
+noises inside his sanctum," Randy answered. "Maybe we've been trying
+not to think for fear the noise would disturb him."
+
+
+BRIEF CHARACTER DESCRIPTIONS:
+
+==========
+
+-McCauley: a man who is feeling weak and stupid, though he can't figure out why. He's the one who notices the radiation coming through the screen and tells Bramwell.
+-Randy: McCauley's partner. He's also feeling listless and not himself.
+-Mr. Perkins: the ship's canary. He's not singing well today.
+-Bramwell: the man who designed the Bramwell-Faraday screen. He's irritable and doesn't want to be disturbed.

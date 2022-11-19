@@ -1,0 +1,8 @@
+-the protagonist, who is piloting the ship and trying to compute their course and speed
+-Furness, the copilot, who is helping with the computations and monitoring the ship's progress
+
+The style of this scene is very technical and matter-of-fact. There is no emotion or description of the characters' inner thoughts or feelings. The focus is entirely on the task at hand and the challenges of the situation.
+
+The scene opens with the timer button set at one minute. The protagonist hits the rocket-firing button, and is immediately hurled back in his seat with great force. He is caught in a vise of twelve gravities pressure, which makes it difficult to breathe and move. However, his flight suit prevents him from being crushed. The minute of the rocket thrust feels like centuries, but eventually the engine cuts off and the protagonist is able to turn his head to the side and breathe.
+The protagonist then begins the task of determining his present course and speed. He uses a radar screen and a Doppler-effect velocity indicator to do so. He also observes the position of stars to determine his height. He determines that the ship does not have quite the speed necessary for a complete orbit, and so he prepares for another rocket blast.
+The second rocket blast is shorter, but just as intense. After it ends, the ship floats on and the protagonist continues to work on his course. There is little exultation among the crew, as they are both tired and aware of the gravity of their situation.

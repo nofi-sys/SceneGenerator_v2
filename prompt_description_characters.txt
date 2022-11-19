@@ -1,0 +1,8 @@
+Write a brief description of all characters in this scene.
+
+
+SCENE:
+<<INPUT>>
+
+
+BRIEF CHARACTER DESCRIPTIONS:

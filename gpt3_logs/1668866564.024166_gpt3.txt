@@ -1,0 +1,105 @@
+Write a brief description of all characters in this scene.
+
+
+SCENE:
+The irony of the last words was corrosive.
+
+"Sir...." The two voices spoke together, outraged and despairing.
+"Sir," panted Kent's voice, alone. "We'd no idea of anything like that,
+sir! We've always hated each other, but...."
+
+His voice ended in a gulp. McCauley growled. A young officer can be
+very much of a fool, of course, but he can be desperately solicitous
+for the honor of the Service to which he is attached. McCauley spoke
+with icy precision.
+
+"I am not concerned with your lives or your hatreds or your intentions.
+I am concerned with the good name of the Space Service. I order you
+both to come back here. Alive. Together. You will start immediately!"
+
+A dazed silence. Then Kent said:
+
+"But--you don't want us to bring the sledge...."
+
+"And we haven't--" this was Holmes--"we haven't enough air to get back!
+How can we do it, sir?"
+
+McCauley relaxed in his small cubbyhole of an office. Very privately he
+drew a breath of relief. But his tone remained stern.
+
+"You will head for Repeater One. If you remember, my voice goes from
+the base here to Repeater One where it is relayed to Repeater Two. If
+I chose the proper frequency it would go on through Three and Four
+to Farside. Can you think of any advantage in being at Repeater One
+instead of Two?"
+
+A long pause. Then Holmes' voice, dubious:
+
+"It's nearer the base, sir. No more than three hours' travel, if that
+much. We could make it on one tank of air apiece, sir, and have the
+extra one for margin. We could make it to base from there, sir, if we
+were there. But we're not, and it's three hours' travel from here! We'd
+get there...."
+
+"You _would_ get there?" demanded McCauley ominously. "Or you _will_
+get there?"
+
+"_Will_, sir." But the young officer's voice was bewildered.
+
+"For your information," said McCauley curtly, "the Repeater One relay
+unit is exactly like the relay unit at Repeater Two. I may add that
+it is in bright sunshine, but will not be so indefinitely."--This was
+because McCauley remembered an air tank which had lain in shadow until
+its metal shivered brittlely when struck and the air inside it was a
+liquid. "It was carried to its position and mounted exactly as the
+relay for Repeater Two was. Now figure it out for yourself! If you
+still don't understand when you get to it, call me from there. Now get
+moving! Sunset's not far away."
+
+He clicked off his microphone, but left the receiving unit on. The
+relay at Repeater Two would pick up suit-radio speech and relay it
+back, the pickup being from its all-direction antennae. McCauley heard
+mumblings. Then, very distinctly, Holmes spoke.
+
+"Understand, I'm going to cooperate with you, getting to Repeater One,
+but that doesn't mean I like you any better!"
+
+Kent said resentfully:
+
+"I figured you'd have to fight me for the air to get back with. And you
+pulled the same trick on me! But we'll manage eventually...."
+
+More mutterings. Then:
+
+"Cripes! Let's get going!"
+
+There were those peculiar noises which a microphone inside a space suit
+picks up and transmits. Breathings. Clankings. Sometimes the squeak of
+metal sliding on metal.
+
+McCauley listened. Presently the noises faded and ceased. The two young
+space-suited officers had descended the mountain to where they were not
+in line of sight of the relay, and consequently it could not pick up
+their suit-radio communications to relay back to McCauley.
+
+The communications officer tapped on the office door.
+
+"We're through to Farside Base, sir," he reported. "The relay system's
+working splendidly. Farside just asked for an Earth Relay link to Lunar
+Base."
+
+"Give it to 'em," said McCauley succinctly.
+
+He waited, listening. He had Repeater One as well as Two set so it
+would retransmit any local pickup on helmet-phone frequency, but it was
+half an hour before anything but the peculiar singing murmurs of empty
+space came from the loud-speaker. Then he heard heavy breathing.
+
+
+BRIEF CHARACTER DESCRIPTIONS:
+
+==========
+
+-McCauley: the communications officer in charge of the space station
+-Kent and Holmes: two young, foolish officers who are ordered by McCauley to go on a mission
+-the communications officer: the man who relays messages for McCauley

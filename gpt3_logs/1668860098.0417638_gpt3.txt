@@ -1,0 +1,131 @@
+Write a detailed description of all characters in this scene.
+
+
+SCENE:
+That fellow Dunton might take a few lessons in manners from you,
+lieutenant. He wants em badly.
+
+Before they reached the cabin, Fotheringay stopped them, saying:
+
+So you have had trouble with Dunton? I expected it, and I am sorry
+that any unpleasantness should have arisen. However, it is not for me
+to say anything against a brother officer. Let it pass. I take this
+opportunity to tell you that Captain Raggett is in a very bad humor.
+He has had despatches from the Admiralty finding fault with him for
+not being more active in harassing the shore towns. There is trouble
+hatching for your people and it will not help matters if you cross him
+in any way. Captain Mayo, you will excuse me, but I think you are a
+little hotheaded. You had better let Captain Knowles do the talking.
+
+Thank you kindly, Mr. Fotheringay, said Hoppy heartily, Win
+certainly is a smoother talker than I am; never much of what you call
+a diplomat, myself. But whatever happens, we want you to remember that
+we are grateful for your kindness, and if all Britishers were like you,
+there would be no trouble.
+
+And I, Mr. Fotheringay, said Win, repeat what I said to Hoppy
+yesterday, Damn this war! And now more than ever when it makes us the
+enemies of a man like you.
+
+You are very good to say so, replied the officer.
+
+In response to a knock at the captains door, a gruff voice bade them
+enter. Captain Richard Raggett arose from his chair when Fotheringay
+saluted and introduced the unwilling guests. The captains keen eyes
+searched the faces of the prisoners as he motioned them to be seated.
+
+Post-Captain Richard Raggett of the Royal Navy was a stout man of about
+sixty years of age. Old Dick Raggett, as he was familiarly known
+throughout the service, was an officer of the school that gave Britain
+such sailors as Rodney, Nelson, Collingwood, and others whose names are
+inseparably connected with the story of Englands glory on the high
+seas. He had fought under his countrys flag in every quarter of the
+globe and for nearly half a century he had served his king with devoted
+loyalty, always obeying orders no matter what those orders might be.
+In battle he was unrelenting, but he was never known to press unfairly
+a beaten foe. He had no liking for his present duty on the coast of
+Massachusetts. There was no glory in bullying defenceless villagers
+and he had not exerted himself overmuch in the operations against Cape
+Cod. But London had reminded him that there was a state of war between
+the United States and Great Britain and that the government expected
+some positive results from the blockade of the New England coast.
+Raggett was stung by the sarcasm of the reminder. He knew his enemies
+at headquarters were at work to discredit him and he was determined to
+outwit them at any hazard.
+
+He was, then, in no amiable mood as he addressed the Cape men:
+
+So you have been running the blockade in a whaleboat? Pretty small
+business for shipmasters like you?
+
+Shipmasters without a ship, Captain Raggett, and until captured
+engaged in bringing necessaries of life from Boston to our town,
+replied Captain Knowles.
+
+By G----, sir! cried Raggett with the suspicion of a smile, your
+people have a pretty good idea of what are necessaries of life. I find
+that your cargo mostly consisted of good Jamaica rum.
+
+This rather upset Win, but Hoppy was equal to the occasion.
+
+Its like this, Captain Raggett, said he; theres been quite a lot
+of sickness in the place, and we old sailors know theres nothing can
+break up a cold like the old-fashioned cure of rum and molasses.
+
+Well, Im afraid the invalids will have to suffer this trip.
+
+Looks that way, Captain Raggett, assented Hoppy dolefully.
+
+Now, my men, said Raggett, you know I have been very lenient about
+this business. Its not the sort of warfare Im used to. But its got
+to stop now. Ive got myself into hot water with the authorities in
+London on account of my leniency and I dont mind telling you that I
+dont like being reprimanded by fellows who never went a mile to sea
+in the whole course of their clerkly lives. But that has nothing to do
+with the matter at present. Dick Raggett has got orders and, by George,
+hes going to obey them! I have had scouts out for you for some time,
+and Im going to hold you until ransomed.
+
+Then that will be forever! exclaimed Hoppy. Theres no one to ransom
+us, Captain Raggett. Of course, you can confiscate our boat and cargo,
+and hold us prisoners, but if you fix the price too high for our means,
+then that fixes us so far as we are concerned.
+
+I must make an example of your capture, replied Raggett, because you
+two are the most daring and successful of all the runners. But that
+doesnt mean that my terms cant be met. I confess I admire your pluck
+and resourcefulness.
+
+
+DETAILED CHARACTER DESCRIPTIONS:
+
+==========
+
+Captain Richard Raggett:
+-stout man of about 60 years old
+-old Dick Raggett is an officer of the school that gave Britain such sailors as Rodney, Nelson, Collingwood
+-fought under country's flag in every quarter of the globe
+-has served his king with devoted loyalty for nearly half a century
+-in battle, he is unrelenting but never known to press unfairly a beaten foe
+-no liking for his present duty on the coast of Massachusetts
+-there is no glory in bullying defenceless villagers
+-stung by the sarcasm of the reminder from London that he has not been active enough in the blockade of the New England coast
+-determined to outwit his enemies at any hazard
+
+Captain Knowles:
+-one of the prisoners
+-shipmaster without a ship
+-until captured, was engaged in bringing necessaries of life from Boston to their town
+
+Hoppy:
+-one of the prisoners
+-an old sailor
+
+Fotheringay:
+-the officer who introduces the prisoners to Captain Raggett
+-takes the opportunity to tell the prisoners that Captain Raggett is in a very bad humor
+-wants to avoid any unpleasantness
+
+Win:
+-one of the prisoners
+-a smoother talker than Hoppy

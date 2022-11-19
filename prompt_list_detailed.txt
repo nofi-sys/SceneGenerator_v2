@@ -1,0 +1,8 @@
+Write a short summary of the following scene as a list. Include details such as dialog, tone, action beats, setting, and more.
+
+
+SCENE:
+<<INPUT>>
+
+
+SHORT SUMMARY AS LIST:

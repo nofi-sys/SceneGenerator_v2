@@ -1,0 +1,107 @@
+Write a brief description of all characters in this scene.
+
+
+SCENE:
+Steps clicked along the other zigzags. Phelps came in through one.
+"No hits," he said, "one run, and the only error was shutting off the
+cross-country pneumo. Tough. But the country got along without the
+shipment of short-lived radioisotopes before and it'll have to do
+without them again until they get the tube put together. Nice going,
+Crandall."
+
+Behind him was Jane Nolan--Doctor Jane Nolan. Like her colleagues,
+Jane Nolan was often quoted in texts, had made several contributions
+to science, and was an authority on several subjects. She was not
+a beautiful woman; but her quiet air sometimes permitted a rather
+interesting personality to show through. Men forgot her mature thirty
+years and her lack of breath-taking beauty and dated her; then found
+themselves at once intrigued by her personality and completely baffled
+by her quick mind--and then went elsewhere in search of wide-eyed
+pulchritude.
+
+Deep interest or honest admiration often lighted up her face and made
+it handsome if not beautiful. She looked very attractive now as she
+went to Crandall.
+
+"That was brave," she said.
+
+"Self-preservation," he said.
+
+"We have that too," she replied with a slight smile. "And we also know
+that we cannot outrun that sort of thing. But we ran."
+
+He smiled at her cheerfully. "I'm not a scientist," he said. "I'm just
+a newspaperman, remember? Perhaps I'm just too ignorant to realize the
+degree of danger."
+
+Jane Nolan shook her head. "You've either seen the remains or pictures
+of them, of the other labs that failed. You know--"
+
+"Look," he chuckled, "let's put it this way. We were dead ducks anyway.
+The devil himself couldn't have outrun that explosion without jet
+assistance." He turned to Claverly, "If I'd had any sense, I wouldn't
+have tried to smash it. I should have known that belting it with a
+hammer wouldn't have stopped it--if anything, it should have hastened
+the explosion."
+
+"I hardly think so," said Claverly thoughtfully. "Remember that the
+crystal is not an explosive in itself. Or so we believe. Anyway--"
+
+"Anyway, thanks to Dave, we still have our lab," said Jane. "Let's get
+back to work."
+
+Dave shook his head. There was no point in arguing with them. They
+called him brave. Nuts! Nine great laboratories had gone skyward with
+their complement of scientists, trying to reproduce the fabulous
+Manhattan Crystal which was now furnishing the city of New York with
+electrical power. And with the deadly record of nine to nothing against
+them, the scientists continued to try. Theirs was the true bravery. It
+was a deadly experiment, and one that was not permitted--
+
+Dave looked startled. "I thought the government insisted that these
+experiments be run by telemeter control?"
+
+"They are."
+
+"Then what in the hell were we doing here?" demanded Crandall.
+
+"The crystal," said Claverly, "was developed last week. We'd done
+everything but taste it by telemeter. It had been tested chemically,
+electrically, mechanically, atomically, physically and about any other
+way you can think of. We've had it white-hot and down to a half-degree
+Kelvin. We've dropped it, hit it, subjected it to electrostatic and
+electromagnetic fields, dunked it in everything from aqua to zerone,
+looked at it and through it, bombarded it with every radiation possible
+from the pile, and let it sit on a glass-topped platform to meditate.
+We believed it was safe; that we'd been successful. We came in to hook
+it up and test its power output, like the Manhattan Crystal. You came
+along."
+
+Dave nodded. The message in his pocket told him that Merion Laboratory
+had successfully created a replica of the Manhattan Crystal and if he
+so desired, he could be present at its testing.
+
+He said slowly, "It seems as if there might be something important
+here."
+
+"What?"
+
+"I hate to suggest it; it sounds silly."
+
+"So do a lot of things," said Claverly. "Go on."
+
+"I'm out of my depth here," said Dave. "But I've read of the so-called
+human aura. The sort of thing that gives certain gardeners a 'green
+thumb' and makes other men capable of curing a headache by merely
+rubbing the head with the fingertips. Is this sort of thing merely
+superstition or has it any basis in fact?"
+
+
+BRIEF CHARACTER DESCRIPTIONS:
+
+==========
+
+-Phelps: A man who has just come in and delivered some news. He is not a scientist, but a newspaperman.
+-Jane Nolan: A female scientist who is not beautiful, but has an interesting personality. She is often quoted in texts and is an authority on several subjects.
+-Claverly: A male scientist who is thoughtful.
+-Dave: A male who is startled. He is out of his depth and does not understand what is going on.

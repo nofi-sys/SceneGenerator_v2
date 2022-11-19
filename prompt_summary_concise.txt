@@ -1,0 +1,8 @@
+Write a concise summary of the following scene:
+
+
+SCENE:
+<<INPUT>>
+
+
+CONCISE SUMMARY:

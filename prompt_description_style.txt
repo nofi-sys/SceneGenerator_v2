@@ -1,0 +1,8 @@
+Describe the literary style of this scene. For example: tone, POV, and so on.
+
+
+SCENE:
+<<INPUT>>
+
+
+DESCRIPTION OF LITERARY STYLE:

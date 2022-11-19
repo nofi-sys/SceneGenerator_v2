@@ -1,0 +1,102 @@
+Write a brief description of all characters in this scene.
+
+
+SCENE:
+He was not exactly an imbecile--merely feeble-minded, unable to
+remember his past, or even the events of a year gone by--an elderly
+man who loafed about the studio building, a man with few wants and no
+vices, who picked up a scanty living by cleaning up studios for the
+artists, and occasionally posing for them. We called him Old Bill; he
+did not know his last name, and was subject to fainting spells.
+
+The artist, like myself, was a marine painter, each of us having
+followed the sea when young, and in answering to the higher call that
+comes at least once in every man's life, had taken to art with the
+sea for a specialty. We both painted ships and shipwrecks, storms and
+sailors, but the difference between us in age, experience, and ability
+was so great that there was never anything but sincere friendship
+between us.
+
+I welcomed his advice and criticism, and he welcomed my society,
+because, as he put it, my youth and enthusiasm revived his failing
+energies. His studio adjoined mine, and when the afternoon light had
+waned, I visited him to smoke, talk, and listen to his yarns, for he
+had been longer at sea than I had, and he had more to tell. Also,
+besides being a master of his art, he was a deep student of science,
+keeping himself well informed on each new invention and discovery; and
+his comments on such subjects were practical, logical, and conclusive.
+
+As, for instance, in discussing that ninety-and-nine days' wonder,
+the wreck of the _Titanic_, and the proposed measures to prevent a
+repetition of such a terrible disaster, he had laughed at the futile
+idea of more lifeboats.
+
+"All the lifeboats in the world," he said, "will not avail of
+themselves if they must be lowered from a boat deck seventy feet
+high, with the steamer rolling in a heavy sea. They would all smash
+against the side before half-way down. The _Titanic_ had a smooth sea,
+remember."
+
+"Long davits," I suggested, "to keep them well outboard."
+
+"Long davits--long enough to answer the purpose--would foul one
+another."
+
+"Short davits, then, and travelers up and down the side."
+
+"Impracticable, even if a steamship company would be willing to
+disfigure their ships so much. In time of panic, the boats could not be
+fitted into the travelers."
+
+"But don't you think," I asked, "that more and stronger compartments
+would solve the difficulty?"
+
+"They would have to be as strong as the side of the ship," he answered,
+"and the necessary angle irons and bracings would interfere with cargo
+space and interior accommodations."
+
+"Then a detachable upper deck," I said, "that would stay in place by
+gravity, but float if the hull sank."
+
+"It would break into pieces in a seaway. It would need to be an upper
+section of two decks with an air space. Well, how about hatches,
+stairways, and masts leading to the lower body? The two ends of the
+ship, which are clear of these fixtures, would not hold all hands, and
+if you do away with hatches, making this upper section water-tight,
+how about the hundreds of people--engineers, firemen, and steerage
+passengers--imprisoned in the hull?"
+
+"Right," I answered. "It seems, then, that the only safety from ice is
+in the Southern Lane route, and slow speed in a fog."
+
+"Yes, unless this English scientist's invention proves practicable.
+Have you read of it?"
+
+I had not, and said so.
+
+"He intends," he explained, "to send forth at intervals sharp notes
+of inaudible sound which, acting like audible sound, will come back
+from an iceberg, a ship, or a coast as an echo, and the time elapsed,
+recorded by a suitable receiver, and divided by two, will give the
+distance."
+
+"Inaudible sound," I answered. "That seems anomalous."
+
+"Hypothetical rather--not yet proven. But who knows? There are sounds
+of too low and long a vibration--I do not mean the roll of a drum,
+which is merely a succession of beats--that cannot be cognized by the
+human ear. There are sounds too high to be heard, such sounds as the
+chirp of a cricket, or tweet of a bird. Some people never hear these
+sounds. Why not use these sounds, and receive their echoes by delicate
+instruments?"
+
+"Give it up," I said hopelessly.
+
+
+BRIEF CHARACTER DESCRIPTIONS:
+
+==========
+
+1. The artist - a marine painter, older man, friendly with the narrator
+2. Old Bill - feeble-minded man who cleans studios and poses for artists, talks to the narrator in the evenings
+3. The narrator - a younger marine painter, friendly with the artist

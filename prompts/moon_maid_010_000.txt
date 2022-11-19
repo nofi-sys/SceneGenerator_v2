@@ -1,0 +1,10 @@
+-Nah-ee-lah: A woman who is leading Julian through a tunnel. She is from Laythe and is familiar with the tunnel, although she has only traversed it once before.
+-Julian: A man who is following Nah-ee-lah through the tunnel. He is not from Laythe and is unfamiliar with the tunnel.
+-The Kalkars: Men who are coming through the tunnel. They are unfamiliar to Nah-ee-lah and Julian.
+
+- Scene takes place in a tunnel leading to the city of Laythe
+- Two passageways diverge from the main tunnel
+- Julian and Nah-ee-lah take the second passageway in order to hide from a group of approaching Kalkars
+- They hope to avoid detection and make their way back to the main tunnel once the Kalkars have passed
+
+The style of this scene is tense and suspenseful, with a sense of foreboding. The point of view is third person limited, focusing on Julian's perspective. The tone is one of fear and danger.
