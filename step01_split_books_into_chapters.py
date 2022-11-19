@@ -16,8 +16,8 @@ if __name__ == '__main__':
     files = os.listdir('books/')
     for file in files:
         book = openfile('books/%s' % file)
-        book = book.split('START OF THE PROJECT GUTENBERG')[1]
-        book = book.split('END OF THE PROJECT GUTENBERG')[0]
+        #book = book.split('START OF THE PROJECT GUTENBERG')[1]
+        #book = book.split('END OF THE PROJECT GUTENBERG')[0]
         chapters = book.split('CHAPTER')
         result = list()
         for chapter in chapters:
