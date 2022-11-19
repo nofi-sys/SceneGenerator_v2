@@ -1,0 +1,12 @@
+The style of this scene is light and playful. The tone is teasing and friendly. The point of view is third person limited.
+
+-Donald: A man who teasingly asks Lissa if she believes in Professor Russell's vision.
+-Lissa: A woman who is gathering flowers when Donald approaches. She is eager to read the letter from her sister.
+-Nathan: Lissa's husband. He is the one who reads the letter aloud.
+-Professor Russell: A clairvoyant who had a vision of Lissa's sister, Alice.
+-Alice: Lissa's sister. She is the one who wrote the letter.
+-Mark: Alice's husband. He was injured in a skirmish with some Sioux.
+
+- Donald has a letter from Nebraska and Lissa is eager to read it
+- The letter is from Alice and describes a hunting expedition where Mark was wounded
+- Lissa is anxious to get to their new home

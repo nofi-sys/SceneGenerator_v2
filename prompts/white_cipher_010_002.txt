@@ -1,0 +1,16 @@
+Fay: A man who is working with Saidee to get the cipher-key from Dutch Gus. He is willing to set the ship on fire to get Dutch Gus out of the cabin.
+Saidee: A woman who is working with Fay to get the cipher-key from Dutch Gus. She is staying in her cabin as per Fay's instructions.
+ Dutch Gus: The man they are trying to get the cipher-key from. He is a remarkable passenger and is being guarded by the steward and deck-hand.
+Steward: A man who is guarding Dutch Gus.
+Deck-hand: A man who is guarding Dutch Gus.
+Inflammable crates: Crates on the ship that are loaded with inflammable materials.
+Companion: A stairway on the ship that leads downward to the engine-room.
+Dutch coal-passer: A man who is leaning over the rail of the companion, smoking a pipe.
+Fog: A fog that is draped over the lowlands and is beginning to lighten in patches.
+
+The style of this scene is tense and suspenseful, with a hint of danger. The point of view is third person limited, and the tone is tense and foreboding.
+
+-Fay and Saidee are on a ship headed for Holland
+-Fay is a German agent, and Saidee is trying to stop him
+-They hatch a plan to set the ship on fire and get Dutch Gus, the man with the cipher-key, when he comes out
+-Fay goes to scope out the engine room while Saidee watches the Germans

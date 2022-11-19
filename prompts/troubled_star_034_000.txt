@@ -1,0 +1,9 @@
+-Dusty: the protagonist, a rookie pilot who is trying to navigate using strange equipment
+-Gant: an experienced pilot who is helping Dusty
+-the phanobeacon: a beacon that the pilots are using to navigate
+
+The style of this scene is tense and suspenseful, with a lot of technical detail. The point of view is third person limited, focused on Dusty's experience.
+
+-Dusty is trying to rotate the ship on a false axis so that the phanobeacon is on the axis of the cone
+-He has trouble with the 'Tee' bar and the 'Co-ordinates' switch, but eventually gets the hang of it
+-The winking star is finally centered on the viewpanel

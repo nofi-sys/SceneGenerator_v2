@@ -1,0 +1,116 @@
+Write a brief description of all characters in this scene.
+
+
+SCENE:
+"But to-night, when I walked there, the house--our house you
+know--looked desolate and dreary, and my heart gave a big
+superstitious thud when I heard what I thought was a footstep on the
+verandah, but it was only a frog as big as your hat.
+
+"That verandah cost me and Harry many a ramble into the scrub and
+forest, but now it is something worth seeing, with its wealth of
+climbing flowering plants, its hanging ferns, and its clustering
+marvellous orchids.
+
+"Yes, the house looks lonely; looks haunted almost; only, of course,
+ghosts never come near a new house.  But, dear Elsie, how lovely it
+will look when we are living in it! when light streams out from the
+open casement windows! when warmth and music are there!  Oh, come
+soon, come _soon_!  You see I'm still impulsive.
+
+"You, Elsie, love pets.  I daresay Bounder will come with you.  Poor
+Scallowa!  I was sorry to hear of his sad death.  But we can have all
+kinds of pets here.  We have many.  To begin with, there is little
+Diana, she is queen of the station, and likely to be; she is
+everybody's favourite.  Then there are the collies, and the kangaroo.
+He is quite a darling fellow, and goes everywhere with me.
+
+"Our laughing jackass is improving every day.  He looks excessively
+wise when you talk to him, and if touched up with the end of a brush
+of turkey's feathers, which we keep for the purpose, he goes off into
+such fits of mad hilarious, mocking, ringing laughter that somebody
+has got to pick him up, cage and all, and make all haste out of the
+house with him.
+
+"We have also a pet bear; that is Harry's.  But don't jump.  It is no
+bigger than a cat, and far tamer.  It is a most wonderful little
+rascal to climb ever you saw.  Koala we call him, which is his native
+name, and he is never tired of exploring the roof and rafters; but
+when he wants to go to sleep, he will tie himself round Sarah's
+waist, with his back downwards, and go off as sound as a top.
+
+"We have lots of cats and a cockatoo, who is an exceedingly
+mischievous one, and who spends most of his life in the garden.  He
+can talk, and dance, and sing as well.  And he is a caution to
+snakes, I can tell you.  I don't want to frighten you though.  We
+never see the 'tiger' snake, or hardly ever, and I think the rest are
+harmless.  I know the swagsmen, and the sundowners too, often kill
+the carpet snake, and roast and eat it when they have no other sort
+of fresh meat.  I have tasted it, and I can tell you, Rupert, it is
+better than roasted rabbit.
+
+"I'm going to have a flying squirrel.  The first time I saw these
+creatures was at night among the trees, and they startled me--great
+shadowy things sailing like black kites from bough to bough.
+
+"Kangaroos are cautions.  We spend many and many a good day hunting
+them.  If we did not kill them they would eat us up, or eat the
+sheep's fodder up, and that would be all the same.
+
+"Gentleman Craig has strange views about most things; he believes in
+Darwin, and a deal that isn't Darwin; but he says kangaroos first got
+or acquired their monster hindlegs, and their sturdy tails, from
+sitting up looking over the high grass, and cropping the leaves of
+bushes.  He says that Australia is two millions of years old at the
+very least.
+
+"I must say I like Craig very much.  He is so noble and handsome.
+What a splendid soldier he would have made!  But with all his
+grandeur of looks--I cannot call it anything else--there is an air of
+pensiveness and melancholy about him that is never absent.  Even when
+he smiles it is a sad smile.  Ah!  Rupert, his story is a very
+strange one; but he is young yet, only twenty-six, and he is now
+doing well.  He lives by himself, with just one shepherd under him,
+on the very confines of civilisation.  I often fear the blacks will
+bail up his hut some day, and mumkill him, and we should all be
+sorry.  Craig is saving money, and I believe will be a squatter
+himself one of these days.  Etheldene is very fond of him.  Sometimes
+I am downright jealous and nasty about it, because I would like you,
+Rupert, to have Etheldene for a wife.  And she knows all about the
+black fellows, and can speak their language.  Well, you see, Rupert,
+you could go and preach to and convert them; for they are not half so
+bad as they are painted.  The white men often use them most cruelly,
+and think no more of shooting them than I should of killing an old
+man kangaroo.
+
+"When I began this letter, dearest Elsie and old Roup, I meant to
+tell you such a lot I find I shall have no chance of doing--all about
+the grand trees, the wild and beautiful scenery, the birds and beasts
+and insects, but I should have to write for a week to do it.  So pray
+forgive my rambling letter, and come and see it all for yourself.
+
+"Come you must, else--let me see now what I shall threaten.  Oh, I
+have it; I won't ever return!  But if you do come, then in a few
+years we'll all go back together, and bring out dad and the dear
+mummy.
+
+
+BRIEF CHARACTER DESCRIPTIONS:
+
+==========
+
+1. protagonist - a young woman who is writing a letter to her friends back home
+2. protagonist's husband - Harry, who is mentioned but not seen in the scene
+3. Bounder - the protagonist's dog
+4. Scallowa - a pet that has died, mentioned in the letter
+5. Diana - a pet, mentioned in the letter
+6. the collies - pets, mentioned in the letter
+7. the kangaroo - a pet, mentioned in the letter
+8. the laughing jackass - a pet, mentioned in the letter
+9. the bear - a pet, mentioned in the letter
+10. the cockatoo - a pet, mentioned in the letter
+11. the flying squirrel - a pet that the protagonist wants, mentioned in the letter
+12. the kangaroos - animals that are hunted, mentioned in the letter
+13. Gentleman Craig - a friend of the protagonist, mentioned in the letter
+14. Etheldene - a friend of the protagonist, mentioned in the letter
+15. Rupert - the recipient of the letter

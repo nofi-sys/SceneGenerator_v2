@@ -1,0 +1,14 @@
+The style of this scene is fairly straightforward and matter-of-fact. There is a bit of tension and suspense, but it is not overly dramatic. The point of view is third person limited, and the tone is fairly neutral.
+
+Roy: A young boy, around 16 years old. He has a scar on his ear from where Froud shot him.
+Ted: Roy's friend, also around 16 years old.
+Froud: A rustler and outlaw, with a scarred face. He shot Roy in the ear.
+Mr. Manley: Roy's father, a rancher.
+Nick Looker: A friend of Mr. Manley's.
+ Bug Eye: A cowboy who works for Mr. Manley. His flivver was wrecked by the rustlers.
+
+- Roy and Teddy wake up and discuss the events of the previous night
+- They go to speak with Mr. Manley, who is talking with Nick Looker
+- Roy tells them what happened, and Mr. Manley says they should wait for the doctor to arrive
+- The doctor never arrives, so they decide to go after Froud themselves
+- Bug Eye is angry and wants to go after the rustler, but is convinced to wait

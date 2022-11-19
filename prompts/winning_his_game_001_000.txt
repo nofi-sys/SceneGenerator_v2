@@ -1,0 +1,12 @@
+The style of this scene is conversational and informal. The tone is light and friendly, and the point of view is third person limited.
+
+- Jimmy and Bert are talking about the debate from a few nights ago
+- They are joined by Hugh, and the three of them discuss debating and baseball
+- Jimmy and Bert are on the Literary Society, and Hugh and Dud are on the rival Forum Society
+- Jimmy and Bert are trying out for the baseball team, and Hugh and Dud are considering it
+- Jimmy and Dud are good at cricket, and Bert and Hugh are not
+
+-Jimmy: member of Literary Society, good at debating and rhetoric
+-Bert: member of Literary Society, good at debating and rhetoric
+-Hugh: member of Literary Society, good at cricket
+-Dud: member of Forum, good at baseball
