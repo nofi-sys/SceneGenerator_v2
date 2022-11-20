@@ -4,6 +4,7 @@ After a while, the group settles down on the Lathrop lawn and they continue to t
 
 The style of this scene is lighthearted and friendly. The tone is warm and nostalgic, and the point of view is third person limited.
 
+IN SCENE:
 -Maida: the protagonist, a young girl who has recently returned to her childhood home after living in New York
 -Rosie: Maida's best friend, a tall girl with light brown hair
 -Laura: another of Maida's friends, a girl with long, light brown hair
@@ -13,13 +14,15 @@ The style of this scene is lighthearted and friendly. The tone is warm and nosta
 -Granny Flynn: an elderly woman, mother of Mrs. Dore
 -Mrs. Dore: mother of Delia and Dicky
 -Delia: a girl, daughter of Mrs. Dore
--Billy Potter: a boy, mentioned but not seen in the scene
--Dr. Pierce: a man, mentioned but not seen in the scene
--Betsy Hale: a girl, mentioned but not seen in the scene
--Molly: a girl, mentioned but not seen in the scene
--Timmie: a boy, mentioned but not seen in the scene
--Dorothy: a girl, mentioned but not seen in the scene
--Mabel: a girl, mentioned but not seen in the scene
--Mrs. Lathrop: a woman, mentioned but not seen in the scene
--Misses Allison: two women, mentioned but not seen in the scene
--Tony: a parrot, mentioned but not seen in the scene
+
+NOT IN SCENE:
+-Billy Potter: a boy
+-Dr. Pierce: a man
+-Betsy Hale: a girl
+-Molly: a girl
+-Timmie: a boy
+-Dorothy: a girl
+-Mabel: a girl
+-Mrs. Lathrop: a woman
+-Misses Allison: two women
+-Tony: a parrot

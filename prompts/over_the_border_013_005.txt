@@ -1,17 +1,8 @@
-The literary style of this scene is characterized by its tone, which is angry and jealous, as well as its point of view, which is from the perspective of the second mate.
+The literary style of this scene is characterized by its tone, which is angry and jealous, as well as its point of view, which is from the perspective of the second mate. The purpose of this scene is to establish the character of the protagonist and to set up the conflict of the story. The protagonist, Mr. Winters, is a jealous and resentful man who is angry at Fred, the first mate, for being hailed as a hero. The conflict is established when Mr. Winters realizes that he is attracted to the young lady who is praising Fred's heroism.
 
-The scene opens with the protagonist, Mr. Winters, dragging the captain back to the companionway. He recognizes the captain and orders the deckhands to haul him up and lead the deck hose into the forward companion. Mr. Winters then takes a blind dash into the forward cabin to find Fred, the first mate, coolly playing the stream from a fire extinguisher into the blazing storeroom.
-"Never mind your hose," Fred says. "I'll have it out in a jiffy."
-But the men are already crowding into the cabin with the hose; and, directing Mr. Winters to go on deck and watch the ship, he orders the men to drag out on deck all half-consumed articles, as fast as they can handle them.
-Mr. Winters goes on deck and reports to the captain and his niece that the fire is out, thanks to the first mate and a fire extinguisher. The captain and his niece praise the first mate for his heroism.
-Mr. Winters is angry and jealous that the first mate should have proved himself the man of the hour, but he escapes the scene and goes forward of the house, where he soon meets the steward.
-"Look here, you animated frankfurter," he says, as he collars him. "Did you tell the skipper that the mate went down the after companion, and pulled him out?"
-"Sure," the steward answers. "You're a mate, ain'dt it?"
-"Get out," Mr. Winters rejoins, pushing him away. "If it wasn't for the shame of it, I'd hit you. The 'mate' aboard ship is the first mate, always--not the second, or the third."
-"But I will tell him, all right, sir," the steward says.
-"Don't trouble yourself," Mr. Winters responds angrily. "Let the matter drop. The mate put the fire out, and that's all that's important."
-So the matter drops. Mr. Winters goes on deck to relieve Fred. Fred seems anxious to avoid direct conversation with him, but after giving him the course and the happenings of the watch, he hurries below.
-The wind dies away that morning, and Mr. Winters makes sail. For the first time since sailing, the ship wears royals and skysails. About eleven, the captain's niece comes up, escorted by the skipper. As Mr. Winters looks at her, he loses what philosophy his last nightmare had left him.
-The scene ends with the captain's niece going down soon and the wind seeming to blow colder.
-
-The purpose of this scene is to establish the character of the protagonist and to set up the conflict of the story. The protagonist, Mr. Winters, is a jealous and resentful man who is angry at Fred, the first mate, for being hailed as a hero. The conflict is established when Mr. Winters realizes that he is attracted to the young lady who is praising Fred's heroism.
+- Mr. Winters: the protagonist, a jealous and resentful man
+- Fred: the first mate, hailed as a hero
+- Captain: the captain of the ship
+- Deckhands: the crew of the ship
+- Steward: the ship's steward
+- Skipper: the captain's niece

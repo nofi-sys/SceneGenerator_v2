@@ -1,18 +1,11 @@
-The Wolf: armed with a light lance, knife, and sword; short and stout; bow and quiver of arrows slung beneath his right stirrup leather; metal blades from Kolrado
-The Kolrados: bring news and metal from a far place; travel many days to reach the Wolf's clan; pass through many lands unmolested; once in two years
-The Utaws: bring metal; inferior to Kolrado metal; only used for horse shoes
-The people of the world: used to travel freely and speak the same language; now divided by the Kalkars
-The Kalkars: brought hatred and suspicion among the people of the world; the Wolf's clan's never-ending crusade is to drive the last of them into the sea
-The Red Hawk: 20 years old; fierce chiefs of 100 clans bow to his will; 20th Julian; can trace his line back 534 years; learned to hate the Kalkars and the tribe of Or-tis; schooled in riding and the deeds of his forebears
-The Rock: raised his spear and shook it savagely toward the valley; scalp-lock fastened just below its metal-shod tip trembled in the wind
-The Rattlesnake: cried that the green of the groves will be dyed red with the Kalkars' blood
-The Coyote: laughed as the Wolf clan rode downward out of the hills toward the desert
+-The Wolf: armed with a light lance, knife, and sword; short and stout; bow and quiver of arrows slung beneath his right stirrup leather; metal blades from Kolrado
+-The Kolrados: bring news and metal from a far place; travel many days to reach the Wolf's clan; pass through many lands unmolested; once in two years
+-The Utaws: bring metal; inferior to Kolrado metal; only used for horse shoes
+-The people of the world: used to travel freely and speak the same language; now divided by the Kalkars
+-The Kalkars: brought hatred and suspicion among the people of the world; the Wolf's clan's never-ending crusade is to drive the last of them into the sea
+-The Red Hawk: 20 years old; fierce chiefs of 100 clans bow to his will; 20th Julian; can trace his line back 534 years; learned to hate the Kalkars and the tribe of Or-tis; schooled in riding and the deeds of his forebears
+-The Rock: raised his spear and shook it savagely toward the valley; scalp-lock fastened just below its metal-shod tip trembled in the wind
+-The Rattlesnake: cried that the green of the groves will be dyed red with the Kalkars' blood
+-The Coyote: laughed as the Wolf clan rode downward out of the hills toward the desert
 
 The purpose of this scene is to establish the setting and conflict of the story. The scene takes place on a mountain, where the protagonist, The Red Hawk, is looking down at the land of the enemy Kalkars. He is with his fellow warriors, who are all armed and ready for battle. The scene establishes the history of the conflict between the Kalkars and the Julians, and sets up the goal of the Julians to drive the Kalkars out of their land.
-
--The Wolf is armed with a light lance, a knife, and a sword. He also has a bow and quiver of arrows.
--The blades of his sword and knife are from Kolrado, and are made by a tribe known for the hardness and temper of their metal.
--The Kolrados come to the Wolf's tribe once every two years, and bring news of other peoples.
--The Wolf's tribe is not friendly to outsiders, and kills all who come among them.
--The Wolf is the twentieth Julian, and can trace his line back 534 years.
--The Wolf and his tribe are planning to attack the Kalkars.

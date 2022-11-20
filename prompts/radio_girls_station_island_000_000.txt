@@ -9,5 +9,12 @@ The purpose of this scene is to establish the characters of Jessie, Amy, and Nel
 -Bob: one of the Reverend's children.
 -Sally: one of the Reverend's children.
 
-Jessie Norwood is excited because she has received a five dollar donation for the hospital fund she is helping to raise money for. Her friends Amy Drew and Nell Stanley are with her in her sitting room and they are all discussing the recent success of the radio concert they put on to raise money. Amy is proud of the success and takes credit for suggesting the concert, while Nell is more humble, saying that they all contributed and it was a joint effort. Jessie agrees that it was a successful event, but points out that the excitement is over and they need to find something else to do to keep from getting bored.
-Amy immediately suggests that they find something else exciting to do for the rest of the summer. Nell suggests that they go up to the farm where they went last year, but Amy is not enthusiastic about the idea, calling it boring. Jessie suggests that maybe Nell should have a break from her family and take a vacation without them, but Nell is not sure that is the right thing to do. They continue to discuss their options for the summer when Jessie's mother comes in and asks what they are talking about.
+SETTING: (DETAILED) The sitting room in Jessie's house. It is sunny and there are flowers in the room.
+
+CHARACTERS: Jessie Norwood, Amy Drew, Nell Stanley, Mrs. Norwood, the Reverend, Fred, Bob, Sally
+
+MAIN EVENT: The girls are discussing their summer plans and how they can raise more money for the hospital fund.
+
+MAIN CONFLICT: Amy and Jessie want to find something more exciting to do for the summer, while Nell just wants to go home to her family.
+
+IMPORTANT DETAILS: Jessie has received a five dollar donation for the hospital fund. The girls put on a successful radio concert to raise money.
