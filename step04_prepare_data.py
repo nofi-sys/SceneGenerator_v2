@@ -16,7 +16,7 @@ if __name__ == '__main__':
     data = list()
     for file in files:
         prompt = open_file(prompt_dir + file).strip()
-        completion = open_file(src_dir2 + file).strip()
+        completion = open_file(completion_dir + file).strip()
         prompt = prompt + '\n\nSCENE: '  # add demarc
         completion = ' ' + completion + ' THE END'  # add stop token
         info = {'prompt': prompt, 'completion': completion}
@@ -24,4 +24,5 @@ if __name__ == '__main__':
     with open('scenes.jsonl', 'w') as outfile:
         for i in data:
             json.dump(i, outfile)
+            #json.dump(i, outfile, ensure_ascii=False)
             outfile.write('\n')
